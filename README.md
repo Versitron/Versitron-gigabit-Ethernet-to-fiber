@@ -1,6 +1,6 @@
 # Versitron Gigabit Ethernet to Fiber 
 
-The **Versitron Gigabit Ethernet to Fiber for Commercial Buildings** solution enables high-speed, long-distance network connectivity by converting copper-based Ethernet signals into fiber optic transmissions. Designed for modern commercial infrastructure, these converters help extend network reach while improving reliability and security.
+The **Versitron Gigabit Ethernet to Fiber** solution enables high-speed, long-distance network connectivity by converting copper-based Ethernet signals into fiber optic transmissions. Designed for modern commercial infrastructure, these converters help extend network reach while improving reliability and security.
 
 ## Product Overview
 
